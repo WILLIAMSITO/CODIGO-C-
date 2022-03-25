@@ -8,15 +8,15 @@ int edad;
   cin>> edad;
   if(edad>= 18)
   {
-  	cout<<"Bienvenido a tu pelicula para adultos";
+  	cout<<"Siga a la a  pelicula para adultos";
   }
   else if(edad>=15)
   {
-  	cout<<"Bienvenido a la sala para adolecentes";
+  	cout<<"Siga a la sala para adolecentes";
   }
   else
   {
-  	cout<<"No puedes ingresar a esta sala";
+  	cout<<"No puedes ingresar a esta sala, vuelva despues";
   }
   
  } 
